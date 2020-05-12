@@ -1,3 +1,5 @@
+import './chat.css';
+
 const chatEvents = [
      {
          participantId: 3,

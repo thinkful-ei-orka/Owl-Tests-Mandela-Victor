@@ -1,3 +1,5 @@
+// import './participants.css';
+
 const participants = [
      {
          id: 1,
