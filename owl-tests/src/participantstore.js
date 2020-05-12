@@ -1,6 +1,4 @@
-// import './participants.css';
-
-const participants = [
+const participantStore = [
      {
          id: 1,
          name: 'Koren Templeton',
@@ -41,4 +39,4 @@ const participants = [
          onStage: true
      }
  ];
- export default participants;
+ export default participantStore;
