@@ -1,10 +1,12 @@
 import React from 'react';
+import participants from '../store'
 
 // import './participants.css'
 
 export default function Participant(props) {
-    props.onStage = true ? stageStatus = 'on stage' : stageStatus = '';
-    props.inSession = true ? sessionStatus = 'in session' : sessionStatus = '';
+    let stageStatus = '' ;
+    // props.onStage = true ? stageStatus = 'on stage' : stageStatus = '';
+    // props.inSession = true ? sessionStatus = 'in session' : sessionStatus = '';
 
          return (
              <div className='Participant' id={props.id}>

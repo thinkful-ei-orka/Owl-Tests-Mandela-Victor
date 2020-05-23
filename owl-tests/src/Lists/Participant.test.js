@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import renderer from 'react-test-renderer';
-import Participant from './participant';
-// props={{}}
+import Participant from './participant.js';
 
 it('renders', () => {
      const div = document.createElement('div');

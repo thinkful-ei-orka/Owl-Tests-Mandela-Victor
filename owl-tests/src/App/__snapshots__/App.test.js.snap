@@ -1,0 +1,249 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<main
+  className="App"
+>
+  <section
+    className="List"
+  >
+    <ul
+      className="List-Participants"
+    >
+      <div
+        className="Participant"
+      >
+        <h3
+          className="Participant-name"
+        >
+          Koren Templeton
+        </h3>
+        <img
+          className="Participant-avatar"
+          src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+        />
+        <p
+          className="Participant-inSession"
+        />
+        <p
+          className="Participant-onStage"
+        >
+          
+        </p>
+      </div>
+      <div
+        className="Participant"
+      >
+        <h3
+          className="Participant-name"
+        >
+          Caty Flucker
+        </h3>
+        <img
+          className="Participant-avatar"
+          src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+        />
+        <p
+          className="Participant-inSession"
+        />
+        <p
+          className="Participant-onStage"
+        >
+          
+        </p>
+      </div>
+      <div
+        className="Participant"
+      >
+        <h3
+          className="Participant-name"
+        >
+          Axe Kubicka
+        </h3>
+        <img
+          className="Participant-avatar"
+          src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+        />
+        <p
+          className="Participant-inSession"
+        />
+        <p
+          className="Participant-onStage"
+        >
+          
+        </p>
+      </div>
+      <div
+        className="Participant"
+      >
+        <h3
+          className="Participant-name"
+        >
+          Frank Runciman
+        </h3>
+        <img
+          className="Participant-avatar"
+          src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+        />
+        <p
+          className="Participant-inSession"
+        />
+        <p
+          className="Participant-onStage"
+        >
+          
+        </p>
+      </div>
+      <div
+        className="Participant"
+      >
+        <h3
+          className="Participant-name"
+        >
+          Ashla Attwool
+        </h3>
+        <img
+          className="Participant-avatar"
+          src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+        />
+        <p
+          className="Participant-inSession"
+        />
+        <p
+          className="Participant-onStage"
+        >
+          
+        </p>
+      </div>
+    </ul>
+  </section>
+  <section
+    className="Chat"
+  >
+    <ul
+      className="Chat-list"
+    >
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Axe Kubicka
+          </span>
+          null
+        </h3>
+      </li>
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Caty Flucker
+          </span>
+          null
+        </h3>
+      </li>
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Frank Runciman
+          </span>
+          null
+        </h3>
+      </li>
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Koren Templeton
+          </span>
+          null
+        </h3>
+      </li>
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Koren Templeton
+          </span>
+          null
+        </h3>
+      </li>
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Koren Templeton
+          </span>
+          null
+        </h3>
+      </li>
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Ashla Attwool
+          </span>
+          null
+        </h3>
+      </li>
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Axe Kubicka
+          </span>
+          null
+        </h3>
+      </li>
+      <li
+        className="emoji-message"
+      >
+        <h3>
+          <span>
+            Axe Kubicka
+          </span>
+          null
+        </h3>
+      </li>
+    </ul>
+  </section>
+  <div
+    className="Stage"
+  >
+    <div
+      className="Stage-Participants"
+    >
+      <div
+        className="Stage-Participant"
+        id={1}
+      >
+        <h3>
+          Koren Templeton
+        </h3>
+        <img
+          src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+        />
+      </div>
+      <div
+        className="Stage-Participant"
+        id={5}
+      >
+        <h3>
+          Ashla Attwool
+        </h3>
+        <img
+          src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+        />
+      </div>
+    </div>
+  </div>
+</main>
+`;

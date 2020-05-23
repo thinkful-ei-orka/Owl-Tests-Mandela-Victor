@@ -2,12 +2,13 @@ import React from 'react';
 import Emoji from './Emoji.js';
 import Message from './Message';
 import './chat.css';
+import store from '../store'
 
 
 export default function Chat(props) {
-    const chat = props.chatEvents.map(event => {
-        const participant = props.participants.find(participant =>
-            participant.id === event.paricipantId);
+    const chat = store.chatEvents.map(event => {
+        const participant = store.participants.find(participant =>
+            participant.id === event.participantId);
 
             if (event.type === 'Message') {
                 const chatTimestamp = new Date (event.timestamp);

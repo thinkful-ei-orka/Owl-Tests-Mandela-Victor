@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Message Component renders the UI as expected 1`] = `
+<li
+  className="Chat-message"
+>
+  <div
+    className="Chat-message-header"
+  >
+    <img />
+    <h3>
+      <span />
+    </h3>
+  </div>
+  <p />
+</li>
+`;

@@ -1,4 +1,5 @@
-const participants = [
+const store ={ 
+    participants: [
      {
          id: 1,
          name: 'Koren Templeton',
@@ -38,9 +39,9 @@ const participants = [
          inSession: true,
          onStage: true
      }
- ];
+ ],
 
- const chatEvents = [
+ chatEvents: [
      {
          participantId: 3,
          type: 'message',
@@ -88,9 +89,7 @@ const participants = [
          type: 'leave-stage',
          timestamp: 1548852724247
      }
-   ];
+   ]
+}
 
- export default {
-      participants,
-      chatEvents
- }
+ export default store;

@@ -1,8 +1,8 @@
 import React from 'react';
-import participants from '../participantStore';
-import List from '../List';
-import Stage from '../Stage'
-import Chat from '../Chat'
+import participants from '../participantStore.js';
+import List from '../Lists/List.js';
+import Stage from '../Stage/Stage.js'
+import Chat from '../Chat/Chat.js'
 
 import './App.css'
 

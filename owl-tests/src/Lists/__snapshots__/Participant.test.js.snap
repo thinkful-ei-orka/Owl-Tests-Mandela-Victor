@@ -15,6 +15,8 @@ exports[`renders 1`] = `
   />
   <p
     className="Participant-onStage"
-  />
+  >
+    
+  </p>
 </div>
 `;

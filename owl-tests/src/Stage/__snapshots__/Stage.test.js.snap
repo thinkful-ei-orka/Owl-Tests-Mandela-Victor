@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<div
+  className="Stage"
+>
+  <div
+    className="Stage-Participants"
+  >
+    <div
+      className="Stage-Participant"
+      id={1}
+    >
+      <h3>
+        Koren Templeton
+      </h3>
+      <img
+        src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+      />
+    </div>
+    <div
+      className="Stage-Participant"
+      id={5}
+    >
+      <h3>
+        Ashla Attwool
+      </h3>
+      <img
+        src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+      />
+    </div>
+  </div>
+</div>
+`;
