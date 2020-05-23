@@ -1,7 +1,7 @@
 import React from 'react';
 import Emoji from './Emoji.js';
 import Message from './Message';
-import './chat.css';
+import './Chat.css';
 import store from '../store'
 
 

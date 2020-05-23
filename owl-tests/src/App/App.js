@@ -1,5 +1,4 @@
 import React from 'react';
-import participants from '../participantStore.js';
 import List from '../Lists/List.js';
 import Stage from '../Stage/Stage.js'
 import Chat from '../Chat/Chat.js'

@@ -4,7 +4,7 @@ export default function Message(props) {
      return (
           <li className='Chat-message'>
                <div className='Chat-message-header'>
-                    <img src={props.avatar}></img>
+                    <img src={props.avatar} alt='Participant Avatar'></img>
                     <h3>
                          {props.name}
                          <span>
